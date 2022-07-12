@@ -1,0 +1,56 @@
+body{
+    background-image: url("R\ \(1\).jpg");
+    background-color: #cccccc;
+}
+.wt{
+    display: inline;
+    color:red;
+    background-color: black;
+    background-size:contain ;
+    height: 100px;
+    border-bottom: 5px solid red;
+    border-right: 3px solid red;
+    border-left: 80px;
+    padding-left: 40px;
+    padding: 20px;
+    font-family: system-ui;
+    text-decoration:overline;
+    
+}
+#actors{
+    color:blanchedalmond;
+    position: relative;
+    top:5px; left: 200px;
+    font-size: 30px;
+}
+#Episodes{
+    color: blanchedalmond;
+    position: relative;
+    top:5px; left:300px;
+    font-size: 30px;
+}
+.wx{
+    opacity: 0.5;
+}
+#Trailer{
+    color:blanchedalmond;
+    position: relative;
+    top:5px; left: 400px;
+    font-size: 30px;
+}
+#a{
+    background-color: red;
+    display: inline;
+    color: blanchedalmond;
+    position: relative;
+    top:5px; left:700px;
+    font-size: 30px; 
+}
+#p{
+    color: blanchedalmond
+     
+}
+
+   
+
+/*commentaire*/
